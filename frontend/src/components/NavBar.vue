@@ -20,7 +20,7 @@
             <router-link class="nav-link text-white" to="/attorneys">Attorneys</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link text-white" to="/contact-us">Contact</router-link>
+            <router-link class="nav-link text-white" to="/" disabled>Contact</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">
