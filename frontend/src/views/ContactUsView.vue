@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
               <div class="col-lg-6 d-flex align-items-center">
-                 <div class="left-content">
+                 <div class="left-content d-flex">
                    
                  </div>
               </div>
